@@ -27,6 +27,7 @@
 $$
 F_{weighted} = 2\cdot {P_{weighted} \cdot R_{weighted} \over P_{weighted} + R_{weighted}}
 $$
+
 где: 
 
 $P_{weighted}$ - взвешенный $Precision$
